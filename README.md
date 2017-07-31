@@ -1,19 +1,10 @@
-# Quasar App
+# Tracking Application
 
-> A Quasar project
+Looking to create an application to track tasks, times, pomodoros, etc.
 
-## Build Setup
+Key feature will be tree-like task organization with time tracking flowing up to parent tasks.
 
-``` bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:8080
-$ quasar dev
-
-# build for production with minification
-$ quasar build
-
-# lint code
-$ quasar lint
-```
+Would like to support queries like:
+>How many hours did I spend studying in university?
+>What university assignment took me the longest to complete?
+>How long did I spend tidying the apartment this year?
